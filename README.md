@@ -14,3 +14,6 @@ Vue3+Node.js+Element plus
 由于原视频是基于vue2+Element-ui实现，而本项目是基于vue3+Element-plus
 <br>
 所以实现方法会有些许不同
+<br>
+<br>
+头像问题由于访问不了Gravatar所以暂时没有实现
