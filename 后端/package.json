@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "restful api",
+  "main": "server.js",
+  "scripts": {
+    "client-install": "npm install --prefix client",
+    "client": "npm start --prefix client",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "keywords": [
+    "LC"
+  ],
+  "author": "LC",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
