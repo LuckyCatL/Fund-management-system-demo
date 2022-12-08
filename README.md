@@ -5,7 +5,7 @@ Vue3+Node.js+Element plus
 2022/12/08
 <br>
 <br>
-基于Vue3+Node.js+Element-plus/mongodb实现的资金管理系统
+基于Vue3+Node.js+Element-plus+mongodb实现的资金管理系统
 <br>
 <br>
 参考视频：https://www.bilibili.com/video/BV1R341167Fw/
